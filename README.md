@@ -1,5 +1,7 @@
 # Entrega 04
 
+
+
 ## Run 🛵
 **Puerto Default : 3000**
 
@@ -24,6 +26,14 @@ En localhost:3000 se encuentra la vista de un form para poder crear un producto.
 
 
 
+## Deploy: 🏭
 
+Front:
+
+https://entrega04.herokuapp.com
+
+API:
+
+https://entrega04.herokuapp.com/api/productos
 
 
